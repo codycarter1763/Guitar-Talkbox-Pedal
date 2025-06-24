@@ -23,7 +23,7 @@ Since I wanted in all-in-one talkbox unit with a distortion circuit, I took a ci
 - 2 10KΩ Resistors
 - 2 1MΩ Log Potentiometer
 - 1 10KΩ Log Potentiometer
-- 2 1N4148 Silicon Diodes
+- 2 1N4001 Silicon Diodes
 
 ## Other Parts
 - 1 Compression driver, I used a Pyle compression driver from Parts Express that I bought years back. Look for a driver that can output idealy 800hz or below.
@@ -37,5 +37,9 @@ Since I wanted in all-in-one talkbox unit with a distortion circuit, I took a ci
 # Schematic and Circuit Analysis
 A detailed circuit analysis is avaliable at this [repo](https://github.com/codycarter1763/DIY-Distortion-Plus-Pedal), but I will attach the schematic I used here. 
 
+With the 0.7 volt forward voltage of the silicon diodes, this leads to clearer and more aggressive distortion with more volume. I will attac the gerber files for the circuit board above
+![Screenshot 2025-06-24 113447](https://github.com/user-attachments/assets/37b781fb-df23-4295-b3fe-a89203b49548)
 
 # Closing
+Hope you got someting out of this guide for building a talkbox pedal. I'll update this repository as I find new information or make any new upgrades.
+
