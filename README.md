@@ -40,6 +40,11 @@ A detailed circuit analysis is avaliable at this [repo](https://github.com/codyc
 With the 0.7 volt forward voltage of the silicon diodes, this leads to clearer and more aggressive distortion with more volume. I will attac the gerber files for the circuit board above
 ![Screenshot 2025-06-24 113447](https://github.com/user-attachments/assets/37b781fb-df23-4295-b3fe-a89203b49548)
 
+# Connecting It All Together
+Here is a high level view of the order that everything is in for the talkbox. It is a very straightforward setup and makes for a fun DIY pedal!
+
+![Untitled](https://github.com/user-attachments/assets/cfd7d3dc-2e13-412f-9369-6ada189aba7e)
+
 # Closing
 Hope you got someting out of this guide for building a talkbox pedal. I'll update this repository as I find new information or make any new upgrades.
 
